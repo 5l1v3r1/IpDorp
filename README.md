@@ -50,7 +50,7 @@ $ pip install requests
 $ ls
 ```
 ```
-$ git clone https://github.com/
+$ git clone https://github.com/OnlineHacKing/IpDorp.git
 ```
 ```
 $ ls
