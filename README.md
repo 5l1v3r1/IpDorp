@@ -97,4 +97,4 @@ Website:- www.onlinehacking-net.cf
 <a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
 
 
-                                              Inspired By github.com/OnlineHacking
+                                       Inspired By github.com/OnlineHacking
