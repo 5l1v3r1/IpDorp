@@ -82,17 +82,16 @@ www.onlinehacking-net.cf
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-# Suppoet me
+# ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-Joining Telegram 
-
-Channel:- https://t.me/OnlineHacking
-
-Group:- https://t.me/OnlineHacking0
-
-YouTube:- https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjreload=101
-
-Website:- www.onlinehacking-net.cf
+Website :- http://www.onlinehacking-net.cf
+YouTube Channel :- https://bit.ly/on9youtube
+Telegram Change :- https://t.me/OnlineHacking
+Telegram Group :- https://t.me/OnlineHacking0
+Github :- https://github.com/OnlineHacKing
+Facebook :-  https://bit.ly/facebook4page
+Twitter :- https://bit.ly/twittersuman
+Instagram :- https://bit.ly/instagram9oh
 
 <a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
 
