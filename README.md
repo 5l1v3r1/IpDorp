@@ -7,7 +7,7 @@
   Location Generator 
 </p>
 
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
+<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
 
 
 ### MAINTAINERS
@@ -19,15 +19,17 @@ Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 ![unnamed (2)](https://i.pinimg.com/originals/5b/46/b2/5b46b2ad5b4b292295d395b98fa3eb3c.png)
 
 
-### PREREQUISITES
+### ☢️ PREREQUISITES
 
 * python
 
-### IpDorp is available for
+### 🌀 IpDorp is Available for
 
 * Termux
 
-### Installation and usage guide
+# ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
+
+### ☣️ Installation and Usage Guide
 ```
 $ apt-get update -y
 ```
@@ -68,7 +70,7 @@ ex:- python ipdrone.py -v 127.0,0.1
 
 Hurray... you got his location with some more information
 
-### SCREENSHOT
+### 📱SCREENSHOT 📲
 ![Shot](https://i.pinimg.com/originals/1a/08/7c/1a087cada9a414c70a360ea5cfbb9140.png)
 
 
@@ -77,10 +79,13 @@ https://www.youtube.com/channel/UCwREEQuPIk7EtaRrZBVvDwg?view_as=subscriber&pbjr
 
 ### Chekout our webite 
 www.onlinehacking-net.cf
-     
-### Warning
+
+# ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+***This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool***
+
 
 # ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
